@@ -1,6 +1,6 @@
-print("Enter the name of the day")
+print("Enter the name of the day !first letter must be capital")
 day=input()
-if(day== "saturday" or day=="sunday"):
+if(day== "Saturday" or day=="Sunday"):
     print("its a weekend")
 else:
     print("Its a weekday")
