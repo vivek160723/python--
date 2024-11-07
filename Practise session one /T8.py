@@ -1,5 +1,0 @@
-print("Please input a string")
-str1=int(input())
-print(str1 ,type(str1))
-str1=float(str1)
-print(str1 ,type(str1))
